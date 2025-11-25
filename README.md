@@ -93,5 +93,3 @@ Once deployed, access the app using your EC2 public IP:
 👉 http://YOUR-EC2-PUBLIC-IP:5000
 
 ---
-
-ct useful, please give it a **Star** on GitHub!
