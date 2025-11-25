@@ -91,5 +91,8 @@ The CI/CD workflow automatically:
 Once deployed, access the app using your EC2 public IP:
 
 👉 http://YOUR-EC2-PUBLIC-IP:5000
+![image alt](https://github.com/Naveenaece2000/hello-ci-cd/blob/b5f392bf473eb30b78547d6ddad9fef851f4d717/Screenshot%20(60).png)
+
+
 
 ---
